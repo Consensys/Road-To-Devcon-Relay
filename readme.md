@@ -1,10 +1,10 @@
 # Submitting Open Finance Bounties - Details and Instructions
 
 ## Submission Deadline
-All bounty submissions must be received no later than 11:59 PM EDT on July 10th, 2019 to be considered.
+All bounty submissions must be received no later than 11:59 PM EDT on October 4th, 2019 to be considered.
 
 ## Judging Date
-Projects will be assessed from July 10th to July 15th, 2019, and winners will be announced by GitCoin and Labs.
+Projects will be assessed from October 5th to October 10th, 2019, and winners will be announced by GitCoin and Labs.
 
 ## How to Submit Your Project!
 
