@@ -6,6 +6,11 @@ All bounty submissions must be received no later than 11:59 PM EDT on October 4t
 ## Judging Date
 Projects will be assessed from October 5th to October 10th, 2019, and winners will be announced by GitCoin and Labs.
 
+## Judging Criteria
+Projects will be assessed based on the following criteria categories: people, product, and potential. You can see a more complete breakdown of the judging criteria below in a screenshot of an actual rubric that we use for judging.
+
+![Judging Rubric](Judging_rubric.jpg)
+
 ## How to Submit Your Project!
 
 ### Step 1
