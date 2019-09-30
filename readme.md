@@ -1,4 +1,4 @@
-# Submitting Open Finance Bounties - Details and Instructions
+# Submitting To A Relay Bounties - Details and Instructions
 
 ## Submission Deadline
 All bounty submissions must be received no later than 11:59 PM EDT on October 4th, 2019 to be considered.
