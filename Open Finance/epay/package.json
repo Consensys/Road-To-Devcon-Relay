@@ -1,0 +1,36 @@
+{
+  "name": "epay",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@toruslabs/torus-embed": "0.1.2",
+    "bootstrap": "^4.3.1",
+    "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.9",
+    "react-bootstrap-button-loader": "^2.0.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1",
+    "web3": "^1.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
