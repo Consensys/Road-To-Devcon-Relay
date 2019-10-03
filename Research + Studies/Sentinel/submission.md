@@ -3,7 +3,7 @@
 ## Project Name
 Sentinel - Suicide Alert: Early Warning System
 
-![](Supporting Material/Sentinel-landing.png)
+![](Supporting_Material/Sentinel-landing.png)
 
 ## Project Summary
 - Saving Lives: Sentinel is an innovative blockchain-based Suicide Surveillance and Early warning system. 
