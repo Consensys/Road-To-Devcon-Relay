@@ -8,8 +8,11 @@ Projects will be assessed from October 5th to October 10th, 2019, and winners wi
 
 ## How to Submit Your Project!
 
+### Step 0
+Fork this repo
+
 ### Step 1
-Clone this repo to your desktop.
+Clone that fork to your desktop.
 
 ### Step 2
 Create a branch named after your project.
