@@ -20,15 +20,19 @@ List each team member, along with the below fields
 
 * Michael J. Cohen
      - Development, Strategy
+     - Previously: writing equity research on media and entertainment companies at an investment bank
+     - Currently: web3 developer
      - michaelcohen716@gmail.com
      - OK to contact about future hackathons? Yes
 
 ## Project Advisor(s)
-Consulted several experts in the media and blockchain space. Will list them when I get their approval.
+* Yagmur Tok
+     - Creative Strategy, Snapchat
 
 ## Link to Ancillary Material
 * **[ECM Proposal Paper](https://github.com/michaelcohen716/equity-curation-model)**
 
+> *Detailed explanation of the protocol*
 * **[Micronews Code Repo](https://github.com/michaelcohen716/micronews/)**
 
 > *Smart contract and front end*
