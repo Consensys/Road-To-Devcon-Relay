@@ -20,6 +20,8 @@ List each team member, along with the below fields
 
 * Michael J. Cohen
      - Development, Strategy
+     - Previously: writing equity research on media and entertainment companies at an investment bank
+     - Currently: web3 developer
      - michaelcohen716@gmail.com
      - OK to contact about future hackathons? Yes
 
