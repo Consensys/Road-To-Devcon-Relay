@@ -54,5 +54,5 @@ This is a proof-of-concept only. The core element of the Stateless platform enab
 
 Note: You should have MetaMask installed to interact with the contracts.
 
-Here is a screenshot of the Stateless landing page that you will see when you spin up a local implementation:
+Here is a screenshot of the Stateless landing page which you will see when you spin up a local implementation:
 ![Stateless](https://github.com/cspannos/stateless/blob/master/src/images/stateless-landing-page.jpg?raw=true)
