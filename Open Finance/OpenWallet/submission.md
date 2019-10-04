@@ -58,7 +58,8 @@ You can contact us for future hackathons.
 ## Link to Ancillary Material
 
 
-- **Pitch Deck:** https://docs.google.com/presentation/d/1Myo8LKynOBocHy8WZS6cGNNxnzbyWDBkSaSSwz_2KeU/edit?usp=sharing
+- **Presentation:** https://docs.google.com/presentation/d/1Myo8LKynOBocHy8WZS6cGNNxnzbyWDBkSaSSwz_2KeU/edit?usp=sharing
 
 - **Demo URL:** https://github.com/Abhimanyu121/OpenWallet/releases/tag/alpha1
-
+</br>
+#### Potential user's feedbacks and our findings are there in presentation.
