@@ -19,6 +19,7 @@ List each team member, along with the below fields
 ## Project Advisor(s)
 
 **Robert Leshner** Founder at Compound
+
 **Stani Kulechov** Founder at AAVE
 
 ## Link to Ancillary Material
