@@ -8,7 +8,7 @@ async function getMarkup () {
 
   return `<div class="newsfeed">
     <div class="feed">
-      ${getFeedMarkup(feed)}
+      ${getFeedMarkup(feed.reverse())}
     </div>
 	</div>`;
 }
