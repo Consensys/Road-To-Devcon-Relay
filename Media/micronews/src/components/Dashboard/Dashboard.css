@@ -1,0 +1,36 @@
+.dashboard-card {
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.46);
+    width: 1000px;
+    background: #F8F8FF;
+    border-radius: 4px;
+}
+
+.dash-card-header {
+    font-size: 24px;
+    font-family: "Saira Stencil One", cursive;
+    text-transform: uppercase;
+}
+
+.dashboard-headline {
+    font-family: "Saira Stencil One", cursive;
+}
+
+.info-title {
+    font-size: 10px;
+    color: gray;
+    font-weight: bold;
+}
+
+.info-value {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.dash-item {
+    min-width: 120px;
+    max-width: 120px;
+}
+
+.current-period {
+    font-family: "Saira Stencil One", cursive;
+}

@@ -1,9 +1,8 @@
-# Submission for the Labs Open Finance Bounties
+# **Micronews: Reinventing the Online News Economy**
 
-## Project Name
-**Micronews**
 
-## Project Summary
+
+## **Project Summary**
 Micronews is the first app built on the `Equity Curation Model` (ECM). The ECM is a decentralized revenue and curation model for digital content. The **[ECM proposal paper](https://github.com/michaelcohen716/equity-curation-model)** documents the full architecture of the system. 
 
 *****
@@ -15,27 +14,11 @@ Micronews is the first app built on the `Equity Curation Model` (ECM). The ECM i
 
 *****
 
-## Project Team
-List each team member, along with the below fields
+## **Project Materials**
 
-* Michael J. Cohen
-     - Development, Strategy
-     - Previously: writing equity research on media and entertainment companies at an investment bank
-     - Currently: web3 developer
-     - michaelcohen716@gmail.com
-     - OK to contact about future hackathons? Yes
-
-## Project Advisor(s)
-* Yagmur Tok
-     - Creative Strategy, Snapchat
-
-## Link to Ancillary Material
 * **[ECM Proposal Paper](https://github.com/michaelcohen716/equity-curation-model)**
 
-> *Detailed explanation of the protocol*
-* **[Micronews Code Repo](https://github.com/michaelcohen716/micronews/)**
-
-> *Smart contract and front end*
+<!-- ***** -->
 
 * **[Live Micronews Demo](https://micronews.michaelcohen716.now.sh)**
 > *Demo of what Micronews `Stream` and `Dashboard` views will look like*
@@ -47,9 +30,17 @@ List each team member, along with the below fields
 
 * **[Micronews Revenue Model](https://docs.google.com/spreadsheets/d/12Wq5UG3ZnsHekSdW4isp9vCAHzdatdprX4ghfyTDsdc/edit?usp=sharing)**
 
-> *Clone the spreadsheet and insert your own assumptions*
+> *Clone the repo and insert your own assumptions*
 
-* **[Recommended Bonding Curve Implementation](https://github.com/dOrgTech/BC-DAO/tree/master/contracts/BondingCurve)**
+* **[Suggested Bonding Curve Implementation](https://github.com/dOrgTech/BC-DAO/tree/master/contracts/BondingCurve)**
 
 > *Source: Github user dOrgTech*
 *****
+
+## **Run Project**
+There's a live demo [here](https://micronews.michaelcohen716.now.sh), but if you'd like to run the project locally:
+* `cd micronews`
+* `npm install`
+* `npm start`
+
+If you access the demo at the deployed link or locally, make sure to approve the Metamask connection. Given the constraints of a hackathon timeline, declining the MetaMask request will result in an error.
