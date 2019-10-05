@@ -1,0 +1,79 @@
+.stream {
+  width: 740px;
+}
+
+.stream-card {
+  width: 550px;
+  border-radius: 4px;
+  box-shadow: -2px 0px 1px blue;
+  height: 250px;
+  background: #F8F8FF;
+}
+
+.vote-slice {
+  width: 60px;
+  background: #e6e6e6;
+  height: 100%;
+}
+
+.content-header {
+  font-size: 12px;
+}
+
+.channel-headline {
+  font-family: "Saira Stencil One", cursive;
+  margin-left: 70px;
+}
+
+.channel-title {
+  color: blue;
+}
+
+.content-title {
+  font-size: 22px;
+  color: gray;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+}
+
+.content-preview {
+  font-size: 14px;
+  color: gray;
+}
+
+.arrow-img {
+  width: 32px;
+  height: auto;
+  cursor: pointer;
+}
+
+.timestamp {
+  color: lightgray;
+}
+
+.blur-content {
+  background:rgba(255,255,255,0.9);
+  box-shadow: 0px 0px 1px blue;
+  border-radius: 4px;
+  width: 490px;
+  left: -20px;
+  height: 240px;
+}
+
+.blur-content-inner {
+  width: 100%;
+  height: 100%;
+  background:rgba(255,255,255,0.8);
+}
+
+.blur-content-text {
+  /* font-weight: bold; */
+  color: blue;
+  font-size: 24px;
+  letter-spacing: 0.4px;
+  font-family: "Saira Stencil One", cursive;
+}
+
+.not-voted {
+  opacity: 0.3;
+}
