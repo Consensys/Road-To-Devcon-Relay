@@ -9,6 +9,11 @@ Send or receive ETH using your Google/Gsuite email. User can login with their Go
 ## Project Team
 Viraj Anchan (https://github.com/viraja1)
 
+Simran
+
+## Project Advisors
+Got advice from a product person
+
 ## Link to Ancillary Material
 Pitch Deck: https://docs.google.com/presentation/d/17dQx2l4FLGh5ECkSSHXA9LbSeX7nE_nbATWSHe2IA-s/
 
