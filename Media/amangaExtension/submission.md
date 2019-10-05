@@ -1,4 +1,4 @@
-# Submission for the Labs Open Finance Bounties
+# Submission for the Labs News Bounty
 
 ## Project Name
 Amanga
