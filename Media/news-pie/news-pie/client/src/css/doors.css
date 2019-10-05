@@ -1,0 +1,62 @@
+.doors {
+    display: inline-block;
+    width: 100%;
+}
+
+.doors a {
+    color: #222;
+    display: inline-block;
+}
+
+.doors a:first-of-type {
+    float: left;
+}
+
+.doors a:last-of-type {
+    float: right;
+}
+
+.doors .door {
+    background-repeat: no-repeat;
+    background-size: 60px;
+    background-position: center;
+    border: 1px solid #333;
+    border-color: #ccc;
+    border-radius: 6px;
+    font-family: Open Sans;
+    font-size: 15px;
+    height: 150px;
+    position: relative;
+    text-align: center;
+    width: 280px;
+}
+
+.doors .door.newsfeed {
+    background-image: url(./images/newsfeed.png);
+}
+
+.doors .door.newsroom {
+    background-image: url(./images/newsroom.png);
+}
+
+.doors .door div {
+    position: absolute;
+    bottom: 18px;
+    width: 100%;
+}
+
+@media only screen and (max-width: 620px) {
+    .doors {
+        text-align: center;
+    }
+    .doors .door {
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .doors a:first-of-type {
+        float: none;
+    }
+    .doors a:last-of-type {
+        float: none;
+    }
+}

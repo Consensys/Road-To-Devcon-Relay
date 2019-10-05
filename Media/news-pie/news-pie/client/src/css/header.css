@@ -1,0 +1,23 @@
+.header {
+    background-color: #222;
+    height: 80px;
+    width: 100vw;
+}
+
+.header h1 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.7px;
+    padding: 25px;
+}
+
+.header .logo {
+    background: url(./images/newspie-logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 40px;
+    height: 30px;
+    vertical-align: middle;
+}
