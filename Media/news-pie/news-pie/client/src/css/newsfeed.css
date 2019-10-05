@@ -1,0 +1,51 @@
+.newsfeed .feed {
+    border-top: 1px dotted #ccc;
+}
+
+.newsfeed .post {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px dotted #ccc;
+    position: relative;
+}
+
+.newsfeed .headline {
+    padding: 10px 0 20px 0;
+}
+
+.newsfeed .headline a {
+    color: #000;
+    font-size: 21px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+.newsfeed .team {
+    color: #777;
+    font-weight: 300;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 13px;
+    border: 1px solid #ccc;
+}
+
+.newsfeed .timestamp {
+    color: #999;
+    font-weight: 100;
+    font-size: 15px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.newsfeed .tag {
+    background: #e1e1e1;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-weight: 100;
+    margin-right: 10px;
+    font-size: 13px;
+}

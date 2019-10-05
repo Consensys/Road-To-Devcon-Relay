@@ -1,0 +1,28 @@
+.newsroom h1 {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.newsroom .action {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-bottom: 1px dashed #ccc;
+    padding-bottom: 50px;
+}
+
+.newsroom button {
+    display: inline;
+    background-color: #222;
+    border-radius: 4px;
+    color: #fff;
+    border: none;
+    padding: 6px 20px;
+    font-size: 16px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.newsroom .network-status {
+    line-height: 30px;
+    text-align: center;
+}
