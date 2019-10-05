@@ -16,7 +16,7 @@ Shintsha allows farmers to:
 
 ## Project Team
 * Brian Siphamandla
-* sphamjoli@gmail.com
+* brianm445@yahoo.com
 * Yes
 
 * Owanate Amachree
