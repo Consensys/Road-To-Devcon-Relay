@@ -61,5 +61,7 @@ You can contact us for future hackathons.
 - **Presentation:** https://docs.google.com/presentation/d/1Myo8LKynOBocHy8WZS6cGNNxnzbyWDBkSaSSwz_2KeU/edit?usp=sharing
 
 - **Demo URL:** https://github.com/Abhimanyu121/OpenWallet/releases/tag/alpha1
+
+- **Market Research: ** https://docs.google.com/document/d/1xm8WNsQd0XCwPNxJAfxLSfZTyXjMIz36o3DcMoGmtiY/edit?usp=sharing
 </br>
 #### Potential user's feedbacks and our findings are there in presentation.
