@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Enaya",
+    "picture": "images/stateless.jpeg",
+    "age": 23,
+    "from": "Gaza",
+    "location": "Germany"
+  },
+  {
+    "id": 1,
+    "name": "Jasmin",
+    "picture": "images/stateless.jpeg",
+    "age": 36,
+    "from": "Myanmar",
+    "location": "Nepal"
+  },
+  {
+    "id": 2,
+    "name": "Ibn",
+    "picture": "images/stateless.jpeg",
+    "age": 19,
+    "from": "Yemin",
+    "location": "Ecuador"
+  },
+  {
+    "id": 3,
+    "name": "Ocalan",
+    "picture": "images/stateless.jpeg",
+    "age": 42,
+    "from": "Kurdistan",
+    "location": "Rojava"
+  },
+  {
+    "id": 4,
+    "name": "Muhammad",
+    "picture": "images/stateless.jpeg",
+    "age": 27,
+    "from": "Syria",
+    "location": "Turkey"
+  },
+  {
+    "id": 5,
+    "name": "Estaban",
+    "picture": "images/stateless.jpeg",
+    "age": 36,
+    "from": "Honduras",
+    "location": "Texas"
+  },
+  {
+    "id": 6,
+    "name": "Bandile",
+    "picture": "images/stateless.jpeg",
+    "age": 28,
+    "from": "Libya",
+    "location": "Greece"
+  },
+  {
+    "id": 7,
+    "name": "Andrea",
+    "picture": "images/stateless.jpeg",
+    "age": 52,
+    "from": "Venezuela",
+    "location": "Colombia"
+  },
+  {
+    "id": 8,
+    "name": "Zaid",
+    "picture": "images/stateless.jpeg",
+    "age": 25,
+    "from": "West Bank",
+    "location": "Jordan"
+  },
+  {
+    "id": 9,
+    "name": "Jeanine",
+    "picture": "images/stateless.jpeg",
+    "age": 66,
+    "from": "Congo",
+    "location": "Ivory Coast"
+  },
+  {
+    "id": 10,
+    "name": "Elenor",
+    "picture": "images/stateless.jpeg",
+    "age": 41,
+    "from": "Laos",
+    "location": "Thailand"
+  },
+  {
+    "id": 11,
+    "name": "Vlad",
+    "picture": "images/stateless.jpeg",
+    "age": 49,
+    "from": "Former USSR",
+    "location": "Estonia"
+  },
+  {
+    "id": 12,
+    "name": "Fatima",
+    "picture": "images/stateless.jpeg",
+    "age": 27,
+    "from": "Syria",
+    "location": "Lebanon"
+  },
+  {
+    "id": 13,
+    "name": "Ahmad",
+    "picture": "images/stateless.jpeg",
+    "age": 20,
+    "from": "Kuwait (Bidoon)",
+    "location": "Kuwait"
+  },
+  {
+    "id": 14,
+    "name": "Stéphanie",
+    "picture": "images/stateless.jpeg",
+    "age": 38,
+    "from": "Haiti",
+    "location": "Dominican Republic"
+  },
+  {
+    "id": 15,
+    "name": "Vadoma",
+    "picture": "images/stateless.jpeg",
+    "age": 56,
+    "from": "former Yugoslavia (Roma)",
+    "location": "Kosovo"
+  }
+]

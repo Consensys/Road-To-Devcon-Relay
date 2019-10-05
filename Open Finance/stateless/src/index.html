@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Stateless</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-8 col-sm-push-2">
+          <h1 class="text-center">Stateless</h1>
+          <p><em>“A person who is not considered as a national by any State under the operation of its law” </em> – The international legal definition of a stateless person</p>
+          <hr/>
+          <p>A social media network for the more than 12 million stateless people around the world. Stateless provides individual and collective digital identity, an opportunity build community, send remittances, make and vote on propositions, exchange socially valuable services, access support, fight corruption and abuse of human rights. Most of all, Stateless exists to support the dignity and lives of all people irrespective of states and borders.</p>
+
+          </p>
+          <br/>
+        </div>
+      </div>
+
+      <div id="profilesRow" class="row">
+        <!-- PROFILES LOAD HERE -->
+      </div>
+    </div>
+
+    <div id="profileTemplate" style="display: none;">
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="panel panel-default panel-profile">
+          <div class="panel-heading">
+            <h3 class="panel-title">Jasmin</h3>
+          </div>
+          <div class="panel-body">
+            <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" style="width: 100%;" src="https://images.unsplash.com/photo-1473106995954-101fc128abc3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" data-holder-rendered="true">
+            <br/><br/>
+            <strong>From</strong>: <span class="human-from">Palestine</span><br/>
+            <strong>Current location</strong>: <span class="human-location">Germany</span><br/>
+            <strong>Age</strong>: <span class="human-age">22</span><br/>
+
+            <button class="btn btn-default btn-adopt" type="button" data-id="0">Verify</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/web3.min.js"></script>
+    <script src="js/truffle-contract.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
