@@ -1,55 +1,37 @@
 # Submission for the Labs Open Finance Bounties
 
 ## Project Name
-**Micronews**
+Amanga
 
 ## Project Summary
-Micronews is the first app built on the `Equity Curation Model` (ECM). The ECM is a decentralized revenue and curation model for digital content. The **[ECM proposal paper](https://github.com/michaelcohen716/equity-curation-model)** documents the full architecture of the system. 
-
-*****
-*From the paper:*
-> The ECM aims to:
-> * use equity ownership to incentivize **consistent and reliable participation in content curation**
-> * establish a **transparent, dynamic revenue model** to provide predictable income for creators
-> * implement a mechanism for indirect governance by **rewarding quality content but avoiding censorship**
-
-*****
+This is a research on how fake pages that promote disinformation could be reported thus creating a repository of these pages that could be looked by anyone look to verify if a page is legit. This is enabled via the use of a chrome extension
 
 ## Project Team
-List each team member, along with the below fields
+* Brian Siphamandla
+* brianm445@yahoo.com
+* Yes
 
-* Michael J. Cohen
-     - Development, Strategy
-     - Previously: writing equity research on media and entertainment companies at an investment bank
-     - Currently: web3 developer
-     - michaelcohen716@gmail.com
-     - OK to contact about future hackathons? Yes
+* Owanate Amachree
+* amachreeowanate@gmail.com
+* Yes
 
-## Project Advisor(s)
-* Yagmur Tok
-     - Creative Strategy, Snapchat
+* Alioune Badara DIAKHATE
+* badaradiakhate14@gmail.com
+* Yes
+
 
 ## Link to Ancillary Material
-* **[ECM Proposal Paper](https://github.com/michaelcohen716/equity-curation-model)**
-
-> *Detailed explanation of the protocol*
-* **[Micronews Code Repo](https://github.com/michaelcohen716/micronews/)**
-
-> *Smart contract and front end*
-
-* **[Live Micronews Demo](https://micronews.michaelcohen716.now.sh)**
-> *Demo of what Micronews `Stream` and `Dashboard` views will look like*
+If some of your material cannot be uploaded to GitHub (ie. Google Slides, a pitch on Youtube, a metrics dashboard on BareMetrics), list it here!
 
 
-* **[Micronews Pitch Deck](https://docs.google.com/presentation/d/1rs8QIGpJGUGG4_TIiEIEMQ5nStHYh4Krfe9b8JxvrRA/edit?usp=sharing)**
-> *Summary of the ECM Philosophy, as well as the Micronews value and business proposition*
+- **Video Demo:** https://drive.google.com/file/d/1Zw4JUmQG-wMYYqXVq1VvYz2mtrPJa1KN/view?usp=sharing
+
+- **Demo URL:** 
+
+## Project Launch Page
 
 
-* **[Micronews Revenue Model](https://docs.google.com/spreadsheets/d/12Wq5UG3ZnsHekSdW4isp9vCAHzdatdprX4ghfyTDsdc/edit?usp=sharing)**
 
-> *Clone the spreadsheet and insert your own assumptions*
 
-* **[Recommended Bonding Curve Implementation](https://github.com/dOrgTech/BC-DAO/tree/master/contracts/BondingCurve)**
 
-> *Source: Github user dOrgTech*
-*****
+(PS) Amanga means Lies in Isizulu
