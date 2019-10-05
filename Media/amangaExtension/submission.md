@@ -1,10 +1,10 @@
 # Submission for the Labs News Bounty
 
 ## Project Name
-Amanga
+Amanga Chrome Extension
 
 ## Project Summary
-This is a research on how fake pages that promote disinformation could be reported thus creating a repository of these pages that could be looked by anyone look to verify if a page is legit. This is enabled via the use of a chrome extension
+This is a research on how fake pages that promote disinformation could be reported thus creating a repository of these pages that could be looked by anyone look to verify if a page is legit. This is enabled via the use of a chrome extension, Each user gets 2 daily votes
 
 ## Project Team
 * Brian Siphamandla
