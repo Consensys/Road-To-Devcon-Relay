@@ -23,13 +23,13 @@ Rarely would a single person be wholly responsible for a published news article,
 
 This project is an engine for broader systems which have content monetisation baked in. Our research suggests that the greatest opportunities for the online news economy will come from enabling the producers of news to coordinate and collaborate in a mutually beneficial way, hence our belief in the [Mutualised Journalism](https://medium.com/@kelvinlockwood/the-regeneration-of-journalism-e44528335d42) thesis.
 
-## Limitations
-
 ## Future Development
 
 In the future we imagine news articles being divided into [Particles](http://nytlabs.com/blog/2015/10/20/particles/) so that journalists contribution is not just arbitrary metadata, physical parts of the article are attributed to their creators. This idea can be enabled by smart contracts which enforce rules and capture value. Different rules and different monetisation for different parts of the article gets pretty interesting and could open up a variety of opportunities.
 
-Proudly built for: [Road to Dev Con: Consensys Labs Relay - Reinventing the Online News Economy](https://gitcoin.co/issue/ConsenSys/Road-To-Devcon-Relay/2/3482)
+Proudly built for: [Road to Dev Con: Consensys Labs Relay - Reinventing the Online News Economy](https://github.com/ConsenSys/Road-To-Devcon-Relay/blob/master/Media/news-pie/submission.md)
+
+[Road to Devcon](https://gitcoin.co/hackathon/road-to-devcon/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

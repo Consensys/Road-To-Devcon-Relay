@@ -4,11 +4,12 @@ export default async function displayNewsroom() {
 }
 
 async function getMarkup() {
+    const network = await window.dapp.provider.getNetwork();
     let anchor = await dapp.provider.listAccounts();
     anchor = anchor[0];
-    console.log('anchor:', anchor);
 
-    if (!anchor) {
+    if (!anchor || network.name !== 'ropsten') {
+        console.log('append network status');
         return `<div class="newsroom">${appendNetworkStatus()}</div>`;
     }
 
